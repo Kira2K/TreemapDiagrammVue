@@ -1,6 +1,6 @@
 {
   "name": "vue-treemap-diagramm",
-  "version": "2.0.5",
+  "version": "2.0.7",
   "type": "module",
   "files": [
     "dist"

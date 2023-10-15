@@ -1,6 +1,6 @@
 ## vue-treemap-diagramm
 
-Simple treemap diagramm for Vue3 and Vite. Use predefined colors or provide your own instead. DEMO:
+Simple treemap diagramm for Vue3 and Vite. Use predefined colors or provide your own instead. LIVE DEMO: https://treemapdiagrammvuedemo.firebaseapp.com
 
 ## Quick start
 
